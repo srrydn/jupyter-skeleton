@@ -1,0 +1,2 @@
+git+https://github.com/OakNorthAI/ocd.git@2.4.1#egg=ocd
+git+https://github.com/OakNorthAI/graffiti.git@1.1.0#egg=graffiti
