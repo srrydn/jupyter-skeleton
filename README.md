@@ -1,9 +1,9 @@
 # jupyter-skeleton
 
 
-cp env.local .env
+### cp env.local .env
 
-add git access token to .env file
+### add git access token to .env file
 
-make build
-make up
+### make build
+### make up
